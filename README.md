@@ -1,2 +1,2 @@
 # TkinterTextEditor
-A personal text editor aimed at helping to write python
+A personal text editor aimed at helping to write python applications.
